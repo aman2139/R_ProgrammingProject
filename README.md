@@ -2,6 +2,8 @@
 ## Introduction
 Welcome to "Nobel Insights," a comprehensive exploration of Nobel Laureates and their remarkable contributions across various disciplines, meticulously crafted through the power of R programming. This project embarks on a journey to unravel the fascinating stories behind the laurels, utilizing data visualization techniques to present a dynamic and insightful narrative. With the help of R, a programming language and software environment commonly used for statistical computing and data analysis, we will embark on a voyage of exploration within this vast database.
 
+**Disclaimer:** This project is solely intended for academic purposes and does not aim to endorse or substantiate any argument whatsoever.
+
 **Key Features:**
 
 1) **Interdisciplinary Exploration:** Dive deep into the laureates' achievements across disciplines such as Physics, Chemistry, Medicine, Literature, Peace, and Economics. Through the lens of R programming, witness the interconnectedness of excellence in diverse fields.
