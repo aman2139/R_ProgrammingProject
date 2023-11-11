@@ -16,6 +16,11 @@ Welcome to "Nobel Insights," a comprehensive exploration of Nobel Laureates and 
 
 5) **Insights:** Gain insights into which countries and institutions have made significant contributions to the realm of knowledge and peace. Explore the gender distribution of laureates and the impact of their work on a global scale.
 
+
+Please find below the code along with the results in the PDF file named: **RProject-NobelWinners**
+
+**Please Note: If you are unable to open the PDF, please download the whole repository as a ZIP file to access the PDF.**
+
 ## About Dataset
 The dataset was taken from Kaggle, a renowned website among data enthusiasts. 
 
@@ -26,5 +31,7 @@ The data was tremendously cleaned before being worked on in R Studio. This datas
 The redundant values were cleaned, and only the relevant columns were kept to keep the analysis and coding simple and to the point. 
 
 A new column of "Age_Received" was included which specified the age of the Nobel Prize winners at the time they were awarded. It was calculated by subtracting the year they received the Nobel Prize from their birth year. The organisations among the data set which received the Nobel Prize were also differentiated in the "Gender" column.
+
+
 
 
